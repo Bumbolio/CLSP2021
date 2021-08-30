@@ -1,0 +1,14 @@
+h1 {
+    color: lightgreen;
+}
+
+body {
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+
+@media screen and (min-width: 600px) {
+    h1 {
+        color: lightgreen;
+    }
+}
